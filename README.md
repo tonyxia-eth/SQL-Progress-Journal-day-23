@@ -47,3 +47,11 @@ LIMIT 10;
 | 18902     | 25 | 2001 | 335000 | Bubba      | Trammell  | 7.4627                |
 | 5771      | 19 | 2001 | 255000 | Robert     | Fick      | 7.451                 |
 +-----------+----+------+--------+------------+-----------+-----------------------+
+
+Findings:
+The top player in terms of ROI for home runs was Albert Pujols, with an efficiency of 18.5%.
+
+Players like Aramis Ramirez, Torii Hunter, and Lance Berkman also provided high value in terms of home runs relative to their salary.
+
+Next Steps:
+Power BI: The next step in the project is to visualize the ROI data in Power BI, creating an interactive dashboard for easy interpretation and analysis of the findings.
